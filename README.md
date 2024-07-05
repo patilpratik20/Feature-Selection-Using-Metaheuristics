@@ -1,1 +1,3 @@
 # Feature-Selection-Using-Metaheuristics
+
+This project aims to compare different metaheuristic algorithms performance for feature selection on the Breast Cancer Wisconsin (Diagnostic) dataset. Five different metaheuristic algorithms are used: Genetic Algorithm (GA), Particle Swarm Optimization (PSO), Ant Colony Optimization (ACO), Hybrid Particle Swarm Optimization with Genetic Algorithm (HPSOGA), and Grey Wolf Optimizer (GWO). The Ridge Regression model is used for evaluating the selected features, and the performance is measured using Mean Squared Error (MSE). Graphs of various metrics are plotted for comparison.
